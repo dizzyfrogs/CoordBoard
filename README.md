@@ -52,25 +52,11 @@ Here’s how to add permissions for players manually:
 
 
    ```yaml
-   groups:
-     default:
-       permissions:
-         - coordboard.command.coords
+   coordboard.command.corrds:
+       default: true
    ```
 		 
-This grants **all players** (the default group) permission to use the `/coords` command.
-
-### Add Admin Permissions
-If you want to give admins access to special commands like viewing private posts, you can grant them the `coordboard.admin` permission. You can add this to the `admins` group or manually to specific players:
-
-   ```yaml
-   groups:
-     admin:
-       permissions:
-         - coordboard.command.coords
-	     - coordboard.admin
-   ```
-	
+This grants **all players** (the default group) permission to use the `/coords` command.	
 Save the `permissions.yml` file and restart the server.
 
 ## Support & Feedback
