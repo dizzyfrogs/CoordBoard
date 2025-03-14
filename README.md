@@ -1,6 +1,6 @@
 # CoordBoard
 
-CoordBoard is a lightweight Minecraft plugin that provides an easy way to share and manage coordinates in-game. Designed for small servers that want to keep a vanilla feel without relying on teleport commands like `/home`, this plugin makes it simple to track and share important locations.
+CoordBoard is a lightweight PaperMC plugin that provides an easy way to share and manage coordinates in-game. Designed for small servers that want to keep a vanilla feel without relying on teleport commands like `/home`, this plugin makes it simple to track and share important locations.
 
 ## Features
 
