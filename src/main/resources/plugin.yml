@@ -1,0 +1,7 @@
+name: CoordBoard
+version: '1.0'
+main: me.dizzyfrogs.coordBoard.CoordBoard
+api-version: '1.21'
+authors: [ dizzyfrogs ]
+description: Paper plugin that lets players share and view coordinates effortlessly.
+website: https://github.com/dizzyfrogs
