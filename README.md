@@ -52,7 +52,7 @@ Here’s how to add permissions for players manually:
 
 
    ```yaml
-   coordboard.command.corrds:
+   coordboard.command.coords:
        default: true
    ```
 		 
